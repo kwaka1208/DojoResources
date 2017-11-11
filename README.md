@@ -1,0 +1,2 @@
+# DojoResources
+CodrDojo関連のファイルの置き場所です
