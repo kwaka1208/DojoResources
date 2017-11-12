@@ -1,0 +1,2458 @@
+# Japanese translations for survey.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-11-09 18:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+msgctxt ""
+"{\"checksum\": 732969215, \"cxt\": \"question_required\", \"id\": "
+"1416415150}"
+msgid "This question requires an answer."
+msgstr "この質問は必須回答です。"
+
+msgctxt ""
+"{\"checksum\": 732969215, \"cxt\": \"question_required\", \"id\": "
+"1416415146}"
+msgid "This question requires an answer."
+msgstr "この質問は必須回答です。"
+
+msgctxt ""
+"{\"checksum\": 732969215, \"cxt\": \"question_required\", \"id\": "
+"1416415148}"
+msgid "This question requires an answer."
+msgstr "この質問は必須回答です。"
+
+msgctxt ""
+"{\"checksum\": 732969215, \"cxt\": \"question_required\", \"id\": "
+"1416414949}"
+msgid "This question requires an answer."
+msgstr "この質問は必須回答です。"
+
+msgctxt ""
+"{\"checksum\": 732969215, \"cxt\": \"question_required\", \"id\": "
+"1416415144}"
+msgid "This question requires an answer."
+msgstr "この質問は必須回答です。"
+
+msgctxt ""
+"{\"checksum\": 732969215, \"cxt\": \"question_required\", \"id\": "
+"1416415417}"
+msgid "This question requires an answer."
+msgstr "この質問は必須回答です。"
+
+msgctxt "{\"checksum\": 2103028102, \"cxt\": \"survey_next\", \"id\": 125432191}"
+msgid "Next"
+msgstr "次へ"
+
+msgctxt "{\"checksum\": 403205082, \"cxt\": \"survey_prev\", \"id\": 125432191}"
+msgid "Prev"
+msgstr "前へ"
+
+msgctxt "{\"checksum\": 734600125, \"cxt\": \"survey_done\", \"id\": 125432191}"
+msgid "Done"
+msgstr "完了"
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766058}"
+msgid "Welcome to the 2017 CoderDojo annual survey!"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766059}"
+msgid "Basic information about you"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766060}"
+msgid "Dojo basic information"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766061}"
+msgid "About your Dojo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766062}"
+msgid "Your Ninjas"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766063}"
+msgid "Your Mentors and volunteers"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766064}"
+msgid "Community and communications"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766065}"
+msgid "Regional bodies"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766066}"
+msgid "Content"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766067}"
+msgid "Finances"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766068}"
+msgid "Finances"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766069}"
+msgid "The CoderDojo Foundation"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766070}"
+msgid "Inactive Dojo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766071}"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641750}"
+msgid "Your Name"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641751}"
+msgid "Dojo name"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641753}"
+msgid "What is your role in the Dojo?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641752}"
+msgid "Dojo email address"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641754}"
+msgid "Where is the Dojo hosted?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641755}"
+msgid ""
+"How regularly does your Dojo meet normally (excluding breaks for public "
+"holidays etc.)?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641756}"
+msgid ""
+"Does your Dojo meet OUTSIDE of term time, i.e. during typical school "
+"summer breaks?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641757}"
+msgid "How long does your Dojo normally meet for per session?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641758}"
+msgid "Do participants usually have internet access while at your Dojo?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641761}"
+msgid "On average, how many Ninjas do you have attending your Dojo?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641762}"
+msgid "Average age of Ninjas attending the Dojo?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641763}"
+msgid ""
+"Throughout 2017, what percentage of people at your events were regular "
+"attendees?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641760}"
+msgid "How many&nbsp;volunteers do you have at a typical Dojo session?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641759}"
+msgid ""
+"What are the core challenges facing your Dojo? Please rank the following "
+"from 'not a challenge' to' very challenging'."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641775}"
+msgid "Dojo country?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641776}"
+msgid "How long has your Dojo been running for?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641764}"
+msgid "Do you use tickets for events, or are they open to attend without booking?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641779}"
+msgid ""
+"What percentage of your Ninjas (under 18)...<br><em>(Estimations or best "
+"guesses where possible are more helpful than blank boxes.)</em>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641778}"
+msgid "Roughly what percentage of your Mentors are in the following profession?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641765}"
+msgid "What topics have you covered at your Dojo? (Choose all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641766}"
+msgid "Where do you find resources to use at your Dojo? (Choose all that apply)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641767}"
+msgid "If you create resources for your Dojo, where do you share them?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641771}"
+msgid "Did your Dojo need to fundraise this year?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641772}"
+msgid ""
+"What was your estimated annual income and expenditure for the past year "
+"(October 2016&ndash;2017)?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641773}"
+msgid "If your CoderDojo needed to fundraise, how did you fundraise?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641774}"
+msgid "Why did your Dojo need to fundraise?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641768}"
+msgid ""
+"Is your Dojo using&nbsp;the CoderDojo Community Platform "
+"(zen.coderdojo.com) regularly for events, badging, or forums?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641769}"
+msgid "How satisfied are you with the following?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641770}"
+msgid ""
+"If you have any general or specific feedback for the CoderDojo Foundation"
+" that you haven't mentioned so far, please enter it here:"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641777}"
+msgid ""
+"Thank you for filling out your information. When the survey closes we "
+"will mark your Dojo inactive. If this is incorrect and you wish to amend "
+"your response, please let us know by emailing info@coderdojo.org."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641793}"
+msgid "Your gender"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641794}"
+msgid "Your age &mdash; please select an age range"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641795}"
+msgid "What is your&nbsp;current employment?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641791}"
+msgid ""
+"Do you use any of the following rewards mechanisms for young people in "
+"your Dojo?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641789}"
+msgid ""
+"What percentage of your volunteers are the following?<br><em>Answer each "
+"of these questions separately against the number of volunteers you have "
+"in total.</em>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641781}"
+msgid ""
+"Which communication methods would you like to use to find out about "
+"CoderDojo news?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641782}"
+msgid ""
+"How can we improve communication with your Dojo and its members (i.e. "
+"Champion, Mentors, parents, and kids)? <br><span style=\"font-size: "
+"10pt;\"><em>E.g. would more local support/meetups or more regular emails "
+"be useful? Give us your suggestions.</em></span>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641783}"
+msgid ""
+"Are you in an area represented by any of the following formal and "
+"informal bodies?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641786}"
+msgid ""
+"Prior to the above question, were you aware that a regional body exists "
+"in your area?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641787}"
+msgid ""
+"If there is a regional body in your area, do you have&nbsp;any feedback "
+"for them directly or for the Foundation to work on with them?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641788}"
+msgid ""
+"Are you aware of the educational resources available on the CoderDojo "
+"website (Kata.coderdojo.com)?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641790}"
+msgid "How would you prefer to use content resources at your Dojo?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200650181}"
+msgid "How do you use content resources at your Dojo?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641796}"
+msgid ""
+"What features would encourage your Dojo, volunteers, or parents/young "
+"people to use the Community Platform?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641780}"
+msgid ""
+"How satisfied are you with the following features on the Community "
+"Platform?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641785}"
+msgid "If not, what are your reasons for not using the Community Platform?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641784}"
+msgid "Why did your Dojo become inactive?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641792}"
+msgid "On which date did your Dojo become inactive?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415118}"
+msgid "Technically skilled volunteer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415119}"
+msgid "Non-technical volunteer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415117}"
+msgid "Champion (Dojo organiser)"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 1807760515, \"cxt\": \"question_option_text\", \"id\": "
+"1416415155}"
+msgid "The comment you entered is in an invalid format."
+msgstr "入力したコメントの書式が正しくありません。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415122}"
+msgid "Library"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415125}"
+msgid "Moving Dojo (Dojo that moves location)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415121}"
+msgid "Office building"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415123}"
+msgid "Religious venue (church hall, temple, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415152}"
+msgid "Public community space (museum, science gallery, community centre, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415120}"
+msgid "School/university (class room, computer lab, etc.)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415124}"
+msgid "Non-office business venue (hotel, coffee shop, etc.)"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416415176}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415127}"
+msgid "Every two weeks"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415129}"
+msgid "Monthly"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415130}"
+msgid "Quarterly (every 3 months)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415153}"
+msgid "Weekly"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415126}"
+msgid "Twice a week"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415128}"
+msgid "Three times a month"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415131}"
+msgid "Please let us know how frequently your Dojo runs."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414703}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414704}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414705}"
+msgid "1 hour"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414706}"
+msgid "1 hour 30 minutes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414707}"
+msgid "2 hours"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414708}"
+msgid "3 hours"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414709}"
+msgid "4 hours or longer"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414710}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414711}"
+msgid "No"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 1807760515, \"cxt\": \"question_option_text\", \"id\": "
+"1416414952}"
+msgid "The comment you entered is in an invalid format."
+msgstr "入力したコメントの書式が正しくありません。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421617520}"
+msgid ""
+"The comment you entered is in an invalid format. Please enter the average"
+" age of the young people in your Dojo."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414906}"
+msgid "0&ndash;10%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414907}"
+msgid "11&ndash;20%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414908}"
+msgid "21&ndash;30%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414909}"
+msgid "31&ndash;40%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414910}"
+msgid "41&ndash;50%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414911}"
+msgid "51&ndash;60%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414912}"
+msgid "61&ndash;70%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414913}"
+msgid "71&ndash;80%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414914}"
+msgid "81&ndash;90%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414915}"
+msgid "91&ndash;100%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414905}"
+msgid ""
+"The comment you entered is in an invalid format. Please enter a whole "
+"number."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415193}"
+msgid "Not a challenge"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415194}"
+msgid "A little challenging"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415195}"
+msgid "Somewhat challeging"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415196}"
+msgid "Very challenging"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414712}"
+msgid "Ongoing support of a local venue"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414713}"
+msgid "Sourcing appropriate content for use in the Dojo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414720}"
+msgid ""
+"Lack of equipment (laptops or additional peripheral equipment for "
+"engagement)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414714}"
+msgid "Reaching Ninjas"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414715}"
+msgid "Retaining and engaging Ninjas of different abilities"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414716}"
+msgid "Reaching Ninjas from underserved or minority backgrounds"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414717}"
+msgid "Attracting and retaining technical mentors"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414718}"
+msgid ""
+"Time investment required to run a Dojo &mdash; managing volunteer "
+"availability and commitment"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414719}"
+msgid "Fundraising for required resources, i.e venue contribution/insurance"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414721}"
+msgid "Engaging parents to assist with running of Dojo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414790}"
+msgid "Afghanistan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414791}"
+msgid "Albania"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414792}"
+msgid "Algeria"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414793}"
+msgid "American Samoa"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414794}"
+msgid "Andorra"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414795}"
+msgid "Angola"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414796}"
+msgid "Anguilla"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414797}"
+msgid "Antigua and Barbuda"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414798}"
+msgid "Argentina"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414799}"
+msgid "Armenia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414800}"
+msgid "Aruba"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414801}"
+msgid "Australia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414802}"
+msgid "Austria"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414803}"
+msgid "Azerbaijan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414804}"
+msgid "Bahamas"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414805}"
+msgid "Bahrain"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414806}"
+msgid "Bangladesh"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414807}"
+msgid "Barbados"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414808}"
+msgid "Belarus"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414809}"
+msgid "Belgium"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414810}"
+msgid "Belize"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414811}"
+msgid "Benin"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414812}"
+msgid "Bermuda"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414813}"
+msgid "Bhutan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414814}"
+msgid "Bolivia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414815}"
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414816}"
+msgid "Botswana"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414817}"
+msgid "Brazil"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414818}"
+msgid "British Virgin Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414819}"
+msgid "Brunei"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414820}"
+msgid "Bulgaria"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414821}"
+msgid "Burkina Faso"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414822}"
+msgid "Burma"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414823}"
+msgid "Burundi"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414824}"
+msgid "Cambodia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414825}"
+msgid "Cameroon"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414826}"
+msgid "Canada"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414827}"
+msgid "Cape Verde"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414828}"
+msgid "Caribbean Netherlands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414829}"
+msgid "Cayman Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414830}"
+msgid "Central African Republic"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414831}"
+msgid "Chad"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414832}"
+msgid "Chile"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414833}"
+msgid "China"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414834}"
+msgid "Christmas Island"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414835}"
+msgid "Cocos Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414836}"
+msgid "Colombia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414837}"
+msgid "Comoros"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414838}"
+msgid "Congo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414839}"
+msgid "Cook Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414840}"
+msgid "Costa Rica"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414841}"
+msgid "Croatia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414842}"
+msgid "Cuba"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414843}"
+msgid "Curaçao"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414844}"
+msgid "Cyprus"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414845}"
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414846}"
+msgid "Democratic Republic of the Congo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414847}"
+msgid "Denmark"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414848}"
+msgid "Djibouti"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414849}"
+msgid "Dominica"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414850}"
+msgid "Dominican Republic"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414851}"
+msgid "Ecuador"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414852}"
+msgid "Egypt"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414853}"
+msgid "El Salvador"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414854}"
+msgid "Equatorial Guinea"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414855}"
+msgid "Eritrea"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414856}"
+msgid "Estonia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414857}"
+msgid "Ethiopia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414858}"
+msgid "Falkland Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414859}"
+msgid "Faroe Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414860}"
+msgid "Federated States of Micronesia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414861}"
+msgid "Fiji"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414862}"
+msgid "Finland"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414863}"
+msgid "France"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414864}"
+msgid "French Guiana"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414865}"
+msgid "French Polynesia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414866}"
+msgid "Gabon"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414867}"
+msgid "Gambia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414868}"
+msgid "Georgia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414869}"
+msgid "Germany"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414870}"
+msgid "Ghana"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414871}"
+msgid "Gibraltar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414872}"
+msgid "Greece"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414873}"
+msgid "Greenland"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414874}"
+msgid "Grenada"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414875}"
+msgid "Guadeloupe"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414876}"
+msgid "Guam"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414877}"
+msgid "Guatemala"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414878}"
+msgid "Guernsey"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414879}"
+msgid "Guinea"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414880}"
+msgid "Guinea-Bissau"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414881}"
+msgid "Guyana"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414882}"
+msgid "Haiti"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414883}"
+msgid "Honduras"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414884}"
+msgid "Hong Kong"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414885}"
+msgid "Hungary"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414886}"
+msgid "Iceland"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414887}"
+msgid "India"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414888}"
+msgid "Indonesia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414889}"
+msgid "Iran"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414890}"
+msgid "Iraq"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414891}"
+msgid "Ireland"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414892}"
+msgid "Isle of Man"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414893}"
+msgid "Israel"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414894}"
+msgid "Italy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414895}"
+msgid "Ivory Coast"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414896}"
+msgid "Jamaica"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414897}"
+msgid "Japan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414898}"
+msgid "Jersey"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414899}"
+msgid "Jordan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414900}"
+msgid "Kazakhstan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414901}"
+msgid "Kenya"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414902}"
+msgid "Kiribati"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414983}"
+msgid "Kosovo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414984}"
+msgid "Kuwait"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414985}"
+msgid "Kyrgyzstan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414986}"
+msgid "Laos"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414987}"
+msgid "Latvia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414988}"
+msgid "Lebanon"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414989}"
+msgid "Lesotho"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414990}"
+msgid "Liberia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414991}"
+msgid "Libya"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414992}"
+msgid "Liechtenstein"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414993}"
+msgid "Lithuania"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414994}"
+msgid "Luxembourg"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414995}"
+msgid "Macau"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414996}"
+msgid "Macedonia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414997}"
+msgid "Madagascar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414998}"
+msgid "Malawi"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414999}"
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415000}"
+msgid "Maldives"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415001}"
+msgid "Mali"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415002}"
+msgid "Malta"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415003}"
+msgid "Marshall Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415004}"
+msgid "Martinique"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415005}"
+msgid "Mauritania"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415006}"
+msgid "Mauritius"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415007}"
+msgid "Mayotte"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415008}"
+msgid "Mexico"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415009}"
+msgid "Moldova"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415010}"
+msgid "Monaco"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415011}"
+msgid "Mongolia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415012}"
+msgid "Montenegro"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415013}"
+msgid "Montserrat"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415014}"
+msgid "Morocco"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415015}"
+msgid "Mozambique"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415016}"
+msgid "Namibia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415017}"
+msgid "Nauru"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415018}"
+msgid "Nepal"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415019}"
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415020}"
+msgid "New Caledonia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415021}"
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415022}"
+msgid "Nicaragua"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415023}"
+msgid "Niger"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415024}"
+msgid "Nigeria"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415025}"
+msgid "Niue"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415026}"
+msgid "Norfolk Island"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415027}"
+msgid "North Korea"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415028}"
+msgid "Northern Mariana Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415029}"
+msgid "Norway"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415030}"
+msgid "Oman"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415031}"
+msgid "Pakistan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415032}"
+msgid "Palau"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415033}"
+msgid "Palestine"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415034}"
+msgid "Panama"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415035}"
+msgid "Papua New Guinea"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415036}"
+msgid "Paraguay"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415037}"
+msgid "Peru"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415038}"
+msgid "Philippines"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415039}"
+msgid "Pitcairn Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415040}"
+msgid "Poland"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415041}"
+msgid "Portugal"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415042}"
+msgid "Puerto Rico"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415043}"
+msgid "Qatar"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415044}"
+msgid "Réunion"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415045}"
+msgid "Romania"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415046}"
+msgid "Russia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415047}"
+msgid "Rwanda"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415048}"
+msgid "Saint Barthélemy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415049}"
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415050}"
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415051}"
+msgid "Saint Lucia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415052}"
+msgid "Saint Martin"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415053}"
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415054}"
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415055}"
+msgid "Samoa"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415056}"
+msgid "San Marino"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415057}"
+msgid "São Tomé and Príncipe"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415058}"
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415059}"
+msgid "Senegal"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415060}"
+msgid "Serbia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415061}"
+msgid "Seychelles"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415062}"
+msgid "Sierra Leone"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415063}"
+msgid "Singapore"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415064}"
+msgid "Sint Maarten"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415065}"
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415066}"
+msgid "Slovenia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415067}"
+msgid "Solomon Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415068}"
+msgid "Somalia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415069}"
+msgid "South Africa"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415070}"
+msgid "South Korea"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415071}"
+msgid "South Sudan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415072}"
+msgid "Spain"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415073}"
+msgid "Sri Lanka"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415074}"
+msgid "Sudan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415075}"
+msgid "Suriname"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415076}"
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415077}"
+msgid "Swaziland"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415078}"
+msgid "Sweden"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415079}"
+msgid "Switzerland"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415080}"
+msgid "Syria"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415081}"
+msgid "Taiwan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415082}"
+msgid "Tajikistan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415083}"
+msgid "Tanzania"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415084}"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415085}"
+msgid "Timor-Leste"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415086}"
+msgid "Togo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415087}"
+msgid "Tokelau"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415088}"
+msgid "Tonga"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415089}"
+msgid "Trinidad and Tobago"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415090}"
+msgid "Tunisia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415091}"
+msgid "Turkey"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415092}"
+msgid "Turkmenistan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415093}"
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415094}"
+msgid "Tuvalu"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415095}"
+msgid "Uganda"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415096}"
+msgid "Ukraine"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415097}"
+msgid "United Arab Emirates"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415098}"
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415099}"
+msgid "United States"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415100}"
+msgid "United States Virgin Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415101}"
+msgid "Uruguay"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415102}"
+msgid "Uzbekistan"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415103}"
+msgid "Vanuatu"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415104}"
+msgid "Vatican City"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415105}"
+msgid "Venezuela"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415106}"
+msgid "Vietnam"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415107}"
+msgid "Wallis and Futuna"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415108}"
+msgid "Western Sahara"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415109}"
+msgid "Yemen"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415110}"
+msgid "Zambia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415111}"
+msgid "Zimbabwe"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415112}"
+msgid "Åland Islands"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415136}"
+msgid "My Dojo is no longer active."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415167}"
+msgid "More than 6 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415135}"
+msgid "We haven't started yet/we're still in planning."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415137}"
+msgid "0&ndash;6 months"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415139}"
+msgid "1&ndash;2 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415140}"
+msgid "2&ndash;3 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415141}"
+msgid "3&ndash;4 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415142}"
+msgid "4&ndash;5 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415143}"
+msgid "5&ndash;6 years"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415138}"
+msgid "6 months&ndash;1 year"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414722}"
+msgid "We use&nbsp;a ticketing system"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414723}"
+msgid "You can attend without booking"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414916}"
+msgid "are female?"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414917}"
+msgid "are from underserved socio-economic backgrounds?"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3406684225, \"cxt\": \"question_option_text\", \"id\": "
+"1421624698}"
+msgid ""
+"Please enter a number. Decimals, percentages, and non-numeric characters "
+"are not accepted."
+msgstr "数字を入力してください。小数点、パーセンテージ、数字以外の文字は使用できません。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415115}"
+msgid "University students"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415113}"
+msgid "IT professionals"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415114}"
+msgid "Teachers or lecturers"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415170}"
+msgid "HR/CSR/communications professionals"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415116}"
+msgid "Percentage"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415182}"
+msgid "0%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415183}"
+msgid "10%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415184}"
+msgid "20%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415185}"
+msgid "30%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415186}"
+msgid "40%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415187}"
+msgid "50%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415188}"
+msgid "60%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415189}"
+msgid "70%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415190}"
+msgid "80%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415191}"
+msgid "90%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415192}"
+msgid "100%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414724}"
+msgid "Scratch"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414725}"
+msgid "Python"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414726}"
+msgid "HTML/CSS"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414727}"
+msgid "JavaScript"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414728}"
+msgid "Arduino"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414729}"
+msgid "Raspberry Pi"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414730}"
+msgid "Unity"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414731}"
+msgid "Game design"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414732}"
+msgid "Design (UI/UX)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414733}"
+msgid "Wearables"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416414735}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414739}"
+msgid "CoderDojo website (Kata)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414740}"
+msgid "Code.org"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414741}"
+msgid "Codecademy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414742}"
+msgid "Greenfoot"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414743}"
+msgid "Khan Academy"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414744}"
+msgid "Kodu"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414745}"
+msgid "Makey Makey"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414746}"
+msgid "W3 Schools"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415200}"
+msgid "Code Club website"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415201}"
+msgid "Raspberry Pi website"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416414748}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414752}"
+msgid "We don&rsquo;t create resources for our Dojo"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414753}"
+msgid "On the CoderDojo website"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414754}"
+msgid "We don’t share the resources we create"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415202}"
+msgid "On a Dojo website"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416414958}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414768}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414769}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414964}"
+msgid "Income (in local currency)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414965}"
+msgid "Expenditure (in local currency)"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3406684225, \"cxt\": \"question_option_text\", \"id\": "
+"1416414963}"
+msgid ""
+"Please enter a number. Decimals, percentages, and non-numeric characters "
+"are not accepted."
+msgstr "数字を入力してください。小数点、パーセンテージ、数字以外の文字は使用できません。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414770}"
+msgid "Tea/coffee/bake sales or tuck shop"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414771}"
+msgid "Sponsorship from local businesses"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414773}"
+msgid "Corporate sponsorship"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414981}"
+msgid "Donations from parents"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414772}"
+msgid "National&nbsp;government/grants"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416414775}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414779}"
+msgid "Insurance or public liability cover"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414783}"
+msgid "To cover&nbsp;snacks/drinks"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414780}"
+msgid "Purchase necessary equipment, i.e laptops"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414784}"
+msgid "USB belts/certificates or Ninja rewards"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414781}"
+msgid "Purchase additional equipment, e.g. Pis, robots, etc,"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414782}"
+msgid "Marketing materials, e.g. T-shirts, flyers, pop-ups, etc."
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416414786}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414755}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414756}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414763}"
+msgid "Satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414765}"
+msgid "Dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414762}"
+msgid "Very satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414764}"
+msgid "Neither satisfied nor dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414766}"
+msgid "Very dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414767}"
+msgid "I haven't used this before"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414947}"
+msgid "I didn't know about this"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414757}"
+msgid "CoderDojo resources page (Kata.coderdojo.com)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414758}"
+msgid "Non-technical/organisational content (<em>Start a Dojo</em> guide)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414759}"
+msgid ""
+"Community support (1-on-1 calls, responsiveness of direct email, "
+"info@coderdojo.org)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414760}"
+msgid "Monthly community newsletter"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414761}"
+msgid ""
+"Foundation-supported events (Dojocon, EUDojo, Coolest Projects "
+"International)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414948}"
+msgid "Technical content (e.g. Sushi Cards)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414955}"
+msgid "CoderDojo e-learning modules (ethos, mentoring, and safeguarding)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415442}"
+msgid "Female"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415443}"
+msgid "Male"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415444}"
+msgid "I'd prefer not to say"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415445}"
+msgid "0-18"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415446}"
+msgid "18-24"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415447}"
+msgid "25-34"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415448}"
+msgid "35-44"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415449}"
+msgid "45-54"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415450}"
+msgid "55-64"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415451}"
+msgid "65-74"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415452}"
+msgid "75-84"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415453}"
+msgid "85+"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415160}"
+msgid "Primary or secondary school&nbsp;student"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415161}"
+msgid "3rd level (university)&nbsp;student"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415172}"
+msgid "Librarian"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415173}"
+msgid "Unemployed"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415174}"
+msgid "Retired"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415175}"
+msgid "Homemaker"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415159}"
+msgid "IT professional"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415156}"
+msgid "Primary school teacher"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415157}"
+msgid "Secondary school teacher"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415158}"
+msgid "3rd level/university lecturer/educator"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415162}"
+msgid "CSR/HR/marketing professional"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416415164}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415430}"
+msgid "Digital badges"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415431}"
+msgid "Physical badges"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415432}"
+msgid "Physical certificates"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415433}"
+msgid "USB belts"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415434}"
+msgid "We don't use any rewards system in our Dojo"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416415435}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642798}"
+msgid "Percentage"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415421}"
+msgid "Female Mentors"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415422}"
+msgid "Youth Mentors"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415423}"
+msgid "Parents who are volunteers"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642799}"
+msgid "0%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642800}"
+msgid "10%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642801}"
+msgid "20%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642802}"
+msgid "30%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642803}"
+msgid "40%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642804}"
+msgid "50%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642805}"
+msgid "60%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642806}"
+msgid "70%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642807}"
+msgid "80%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642809}"
+msgid "90%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1421642812}"
+msgid "100%"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415389}"
+msgid "Facebook (fb.com/CoderDojo)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415390}"
+msgid "Twitter (@CoderDojo)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415391}"
+msgid "Slack (coderdojoglobal.slack.com)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415394}"
+msgid "Instagram (@coderdojo)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415395}"
+msgid "CoderDojo website and blog"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415392}"
+msgid "CoderDojo forums (forums.coderdojo.com)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415393}"
+msgid "LinkedIn"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415396}"
+msgid "Google+"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415454}"
+msgid "Emails to my personal email address"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415388}"
+msgid "Emails to our Dojo email address"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415406}"
+msgid "England and Wales"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415411}"
+msgid "New South Wales, Australia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415415}"
+msgid "West Sound, Washington, USA"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415416}"
+msgid "I am not based in any of these regions"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415455}"
+msgid "Columbia"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415467}"
+msgid "Thailand"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415397}"
+msgid "Belgium &mdash; http://www.coderdojobelgium.be"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415407}"
+msgid "Japan &mdash; http://www.coderdojo.jp/"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415408}"
+msgid "Indiana, USA &mdash; https://www.techpointyouth.org/coderdojo/"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415409}"
+msgid "Ireland &mdash; http://coderdojo.ie/"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415410}"
+msgid "Netherlands &mdash; https://www.coderdojo.nl/"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415412}"
+msgid "Spain &mdash; http://coderdojospain.org/"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415413}"
+msgid "Turkey &mdash; http://coderdojoturkiye.com"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415414}"
+msgid "Western Australia, Australia &mdash; http://coderdojowa.org.au/"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416415426}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415404}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415405}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415419}"
+msgid "Yes"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415420}"
+msgid "No"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415385}"
+msgid "Half physical, half digital resources"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415383}"
+msgid "Completely physical resources (e.g. printed handouts)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415384}"
+msgid "Mostly physical resources (e.g. printed handouts)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415386}"
+msgid "Mostly digital resources (e.g. web pages)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415387}"
+msgid "Completely digital resources (e.g. web pages)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416465325}"
+msgid "Completely physical resources (e.g. printed handouts)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416465326}"
+msgid "Mostly physical resources (e.g. printed handouts)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416465327}"
+msgid "Half physical, half digital resources"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416465328}"
+msgid "Mostly digital resources (e.g. web pages)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416465329}"
+msgid "Completely digital resources (e.g. web pages)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415374}"
+msgid "Satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415376}"
+msgid "Dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415382}"
+msgid "I didn't know about this feature"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415373}"
+msgid "Very satisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415375}"
+msgid "Neither datisfied nor dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415377}"
+msgid "Very dissatisfied"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415378}"
+msgid "I haven't used this before"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415379}"
+msgid "Events and ticketing feature"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415380}"
+msgid "Badging feature"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415381}"
+msgid "Community forums (Mentors and Champions)"
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415398}"
+msgid "We&nbsp;could not attract enough Mentors every session."
+msgstr ""
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415399}"
+msgid "The Champion no longer had time and couldn't find a replacement."
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3501923203, \"cxt\": \"question_option_text\", \"id\": "
+"1416415400}"
+msgid "Please enter a comment."
+msgstr "コメントを入力してください。"
+
+msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416415441}"
+msgid "Date"
+msgstr ""
+
+msgctxt ""
+"{\"checksum\": 3083537800, \"cxt\": \"question_option_text\", \"id\": "
+"1416415440}"
+msgid "Please enter a valid date."
+msgstr "有効な日付を入力してください。"
+
+msgctxt "{\"cxt\": \"survey_title_html\", \"id\": 125432191}"
+msgid "Annual survey 2017"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 55766058}"
+msgid ""
+"<div>Each year, the CoderDojo Foundation performs a survey of all Dojos "
+"across the globe. We use your responses to ensure we are supporting you "
+"as best we can. <br><br>Thank you for taking the time to complete this "
+"survey. <br><br>Key points to remember:</div>\n"
+"<ul>\n"
+"<li>Please complete the survey only once for each Dojo</li>\n"
+"<li>Estimated values are better for us than no values at all</li>\n"
+"<li>We will anonymise all information we collect here, so no answer will "
+"be attributed to a specific person or Dojo</li>\n"
+"</ul>\n"
+"<div>Please feel free to contact us at any point at "
+"info@coderdojo.com.<br><br>Kind regards, <br><br>Rosa and the CoderDojo "
+"Foundation team</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 55766063}"
+msgid ""
+"<div>This section asks questions about your Mentors' and volunteers' "
+"interaction with your Dojo.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 55766065}"
+msgid ""
+"<div>Regional bodies are groups which represent CoderDojo interests in a "
+"specific area. They are driven and led by CoderDojo volunteers in that "
+"area.</div>"
+msgstr ""
+
+msgctxt "{\"cxt\": \"page_subheading\", \"id\": 55766071}"
+msgid ""
+"<div>Thank you for taking the time to complete this survey! All the "
+"information we receive from you is invaluable to us. We wish you and your"
+" Dojo continued success. If you want to get in touch with the team about "
+"this survey or to ask for other support, please email "
+"info@coderdojo.org.</div>\n"
+"<div><br></div>\n"
+"<div>Results will be released in January 2018 at the latest and sent to "
+"Dojos in our monthly newsletter.</div>"
+msgstr ""
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416415179}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 1416415134}"
+msgid "Irregularly (please define how often)"
+msgstr ""
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416415199}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416415171}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416414734}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416414747}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416414961}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416414774}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416414785}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416415163}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416415438}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
+msgctxt "{\"cxt\": \"question_other\", \"id\": 1416415429}"
+msgid ""
+"My regional body is not listed. (Please comment and let us know which "
+"your regional body is.)"
+msgstr ""
+
+msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416415403}"
+msgid "Other (please specify)"
+msgstr "その他 (具体的に)"
+
