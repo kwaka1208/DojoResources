@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-09 18:08+0000\n"
-"PO-Revision-Date: 2017-11-12 22:30+0900\n"
+"PO-Revision-Date: 2017-11-13 12:31+0900\n"
 "Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -82,7 +82,7 @@ msgstr "コミュニティと交流"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766065}"
 msgid "Regional bodies"
-msgstr "地域団体"
+msgstr "公式支部"
 
 msgctxt "{\"cxt\": \"page_heading\", \"id\": 55766066}"
 msgid "Content"
@@ -132,7 +132,6 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641755}"
 msgid "How regularly does your Dojo meet normally (excluding breaks for public holidays etc.)?"
 msgstr "あなたのDojoは、いつ開催されていますか？（祝祭日などを除く）"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641756}"
 msgid "Does your Dojo meet OUTSIDE of term time, i.e. during typical school summer breaks?"
 msgstr "あなたのDojoでは、学期外に開催されますか？（例：一般的な学校の夏休み期間）"
@@ -183,7 +182,7 @@ msgstr "おおよそ、メンターの何％が以下の職業についていま
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641765}"
 msgid "What topics have you covered at your Dojo? (Choose all that apply)"
-msgstr "あたのDojoで扱っているトピックはどれですか？（該当するものすべてを選んでください）"
+msgstr "あなたのDojoで扱っているトピックはどれですか？（該当するものすべてを選んでください）"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641766}"
 msgid "Where do you find resources to use at your Dojo? (Choose all that apply)"
@@ -223,9 +222,8 @@ msgstr "CoderDojo財団に対する対するフィードバック（一般的な
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641777}"
 msgid ""
-"Thank you for filling out your information. When the survey closes we "
-"will mark your Dojo inactive. If this is incorrect and you wish to amend "
-"your response, please let us know by emailing info@coderdojo.org."
+"Thank you for filling out your information. When the survey closes we will mark your Dojo inactive. If this is incorrect and you wish to amend your response, please let us know by emailing "
+"info@coderdojo.org."
 msgstr ""
 "あなたの情報を記入していただきありがとうございます。 調査が終了すると、あなたのDojoを非アクティブにマークします。 もし間違いがあり、回答内容を修正したい場合はの、info@coderdojo.orgまでメールでお"
 "知らせください。"
@@ -246,7 +244,6 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641791}"
 msgid "Do you use any of the following rewards mechanisms for young people in your Dojo?"
 msgstr "ニンジャに対して、以下の報奨制度のいずれかを使用していますか？"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641789}"
 msgid "What percentage of your volunteers are the following?<br><em>Answer each of these questions separately against the number of volunteers you have in total.</em>"
 msgstr "ボランティアの中で、以下に当てはまる方はそれぞれどれくらいの割合を占めていますか？<br> <em>この問いには、あなたが合計しているボランティアの人数とは別に答えてください。</ em>"
@@ -269,15 +266,14 @@ msgstr "あなたは、次の正式もしくは非公式の団体が代表する
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641786}"
 msgid "Prior to the above question, were you aware that a regional body exists in your area?"
-msgstr "あなたの地域に地域団体が存在することを知っていますか？"
+msgstr "あなたの地域に公式支部が存在することを知っていますか？"
 
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641787}"
--msgid ""
--"If there is a regional body in your area, do you have&nbsp;any feedback "
--"for them directly or for the Foundation to work on with them?"
--msgstr "あなたの地域に地域団体が存在する場合、直接かもしくはFoundationに対して一緒に活動するためのフィードバックはありますか？"
+msgid ""
+"If there is a regional body in your area, do you have&nbsp;any feedback "
+"for them directly or for the Foundation to work on with them?"
+msgstr "(もし公式の支部がある場合) 公式支部にフィードバックしたいことはありますか？Foundation から間接的にお伝えすることもできます。"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641788}"
 msgid "Are you aware of the educational resources available on the CoderDojo website (Kata.coderdojo.com)?"
 msgstr "CoderDojoのウェブサイト（Kata.coderdojo.com）で利用できる教育リソースを知っていますか？"
@@ -290,7 +286,6 @@ msgctxt "{\"cxt\": \"question_heading\", \"id\": 200650181}"
 msgid "How do you use content resources at your Dojo?"
 msgstr "Dojoでどのようにコンテンツ・リソースを使用していますか？"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_heading\", \"id\": 200641796}"
 msgid "What features would encourage your Dojo, volunteers, or parents/young people to use the Community Platform?"
 msgstr "どのような機能が、あなたのDojo、ボランティア、または保護者やニンジャにコミュニティプラットフォームを使用するように促しますか？"
@@ -515,12 +510,10 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414716}"
 msgid "Reaching Ninjas from underserved or minority backgrounds"
 msgstr "経済的に問題のあるニンジャ、もしくはマイノリティなニンジャと出会うこと"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414717}"
 msgid "Attracting and retaining technical mentors"
 msgstr "技術メンターを惹きつけ、Dojoに継続的に参加してもらう"
 
-#, fuzzy
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 1416414719}"
 msgid "Fundraising for required resources, i.e venue contribution/insurance"
 msgstr "必要なリソースのための資金調達（会場費用や保険費用など）"
@@ -2295,7 +2288,7 @@ msgstr "<div>このセクションでは、あなたのDojoでのメンターと
 
 msgctxt "{\"cxt\": \"page_subheading\", \"id\": 55766065}"
 msgid "<div>Regional bodies are groups which represent CoderDojo interests in a specific area. They are driven and led by CoderDojo volunteers in that area.</div>"
-msgstr "<div>地域団体とは、特定の地域におけるCoderDojoを代表する団体です。地域団体は、その地域のCoderDojoボランティアによって運営されています。<div>"
+msgstr "<div>公式支部とは、特定の地域におけるCoderDojoを代表する団体です。公式支部は、その地域のCoderDojoボランティアによって運営されています。<div>"
 
 msgctxt "{\"cxt\": \"page_subheading\", \"id\": 55766071}"
 msgid ""
@@ -2355,7 +2348,7 @@ msgstr "その他 (記入をお願いします）"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 1416415429}"
 msgid "My regional body is not listed. (Please comment and let us know which your regional body is.)"
-msgstr "私の地域団体は一覧にありません（あなたの地域団体がどこかを記入してください）。 "
+msgstr "私の公式支部は一覧にありません（あなたの公式支部がどこかを記入してください）。 "
 
 msgctxt "{\"checksum\": 54629474, \"cxt\": \"question_other\", \"id\": 1416415403}"
 msgid "Other (please specify)"
